@@ -1,5 +1,5 @@
 - name: NaCL
-  link: /nacl/
+  link: ./nacl/
   dropdown:
     - name: Memory
       link: /nacl/#headers
@@ -11,16 +11,16 @@
       link: /nacl-story-cards/
 
 - name: SALT
-  link: /salt/
+  link: ./salt/
 
 - name: Tools
-  link: /tools/
+  link: ./tools/
   dropdown:
     - name: Scenario Maker
       link: /scenario-maker/
 
 - name: Scripts
-  link: /scripts/
+  link: ./scripts/
 
 - name: Blog
-  link: /blog/
+  link: ./blog/
