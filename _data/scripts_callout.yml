@@ -1,0 +1,8 @@
+style: is-dark
+height: is-small
+items:
+  - title: "Scripts"
+    subtitle: ""
+    icon: "fa-code"
+  - title: ""
+  - title: ""

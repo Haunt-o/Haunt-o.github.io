@@ -44,7 +44,7 @@ a sort of less condensed mixture of these older formats.
 ### Story Cards
 
 For using NaCL for story cards, see
-[the page on it](../nacl-story-cards)  
+[the page on it](../nacl-story-cards.html)  
 Since you have to cram story card info into ~1000 characters to describe the
 details and features of something, NaCL is written differently for story cards.
 
@@ -195,7 +195,7 @@ completely remove all uneeded words.
   player is way past the start.
 - Immutable details are good for memory, like a character's race and name.  
   Even then, details other than the basics should be put into a story card
-  if you can; see [the section on story cards](../nacl-story-cards) to see
+  if you can; see [the section on story cards](../nacl-story-cards.html) to see
   how to use NaCL to write story cards effectively.
 
 ### Author's Notes

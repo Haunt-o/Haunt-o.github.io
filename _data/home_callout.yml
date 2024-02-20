@@ -7,18 +7,18 @@ items:
     # icon_brand: true
     description: "My AI Dungeon Context Format"
     call_to_action_name: "Learn More"
-    call_to_action_link: "/nacl/" 
+    call_to_action_link: "/nacl.html" 
 
   - title: "SALT"
     subtitle: "Scenario Auto Loading Tools"
     icon: "fa-spinner"
     description: "My AI Dungeon Scripting Library"
     call_to_action_name: "Learn More"
-    call_to_action_link: "/salt/"
+    call_to_action_link: "/salt.html"
 
   - title: "Scenario Maker"
     subtitle: "Tool For Organized Scenarios"
     icon: "fa-folder-open"
     description: "My AI Dungeon Scenario Making Tool"
     call_to_action_name: "Learn More"
-    call_to_action_link: "/scenario-maker/"
+    call_to_action_link: "/scenario-maker.html"
