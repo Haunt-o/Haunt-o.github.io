@@ -2,10 +2,10 @@
   link: /nacl.html
   dropdown:
     - name: Memory
-      link: /nacl.html/#headers
+      link: /nacl.html#headers
     
     - name: Author's Notes
-      link: /nacl.html/#authors-notes
+      link: /nacl.html#authors-notes
       
     - name: Story Cards
       link: /nacl-story-cards.html
