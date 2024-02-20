@@ -1,0 +1,8 @@
+style: is-dark
+height: is-small
+items:
+  - title: "Scenario Auto Loading Tools"
+    subtitle: ""
+    icon: "fa-spinner"
+  - title: ""
+  - title: ""

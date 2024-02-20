@@ -1,0 +1,26 @@
+- name: NaCL
+  link: /nacl/
+  dropdown:
+    - name: Memory
+      link: /nacl/#headers
+    
+    - name: Author's Notes
+      link: /nacl/#authors-notes
+      
+    - name: Story Cards
+      link: /nacl-story-cards/
+
+- name: SALT
+  link: /salt/
+
+- name: Tools
+  link: /tools/
+  dropdown:
+    - name: Scenario Maker
+      link: /scenario-maker/
+
+- name: Scripts
+  link: /scripts/
+
+- name: Blog
+  link: /blog/

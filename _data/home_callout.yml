@@ -1,0 +1,24 @@
+style: is-dark
+height: is-small
+items:
+  - title: "NaCL"
+    subtitle: "Narrative Context Language"
+    icon: fa-chevron-right
+    # icon_brand: true
+    description: "My AI Dungeon Context Format"
+    call_to_action_name: "Learn More"
+    call_to_action_link: "/nacl/" 
+
+  - title: "SALT"
+    subtitle: "Scenario Auto Loading Tools"
+    icon: "fa-spinner"
+    description: "My AI Dungeon Scripting Library"
+    call_to_action_name: "Learn More"
+    call_to_action_link: "/salt/"
+
+  - title: "Scenario Maker"
+    subtitle: "Tool For Organized Scenarios"
+    icon: "fa-folder-open"
+    description: "My AI Dungeon Scenario Making Tool"
+    call_to_action_name: "Learn More"
+    call_to_action_link: "/scenario-maker/"

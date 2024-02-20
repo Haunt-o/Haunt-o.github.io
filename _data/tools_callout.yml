@@ -1,0 +1,17 @@
+style: is-dark
+height: is-small
+items:
+  - title: "Tools"      # ROW 1
+    subtitle: ""
+    icon: "fa-wrench"
+  - title: ""
+  - title: ""
+  - title: ""           # ROW 2
+  - title: ""
+  - title: ""
+  - title: "Scenario Maker"
+    subtitle: "Tool For Organized Scenarios"
+    icon: "fa-folder-open"
+    description: "AI Dungeon Scenario Making Tool"
+    call_to_action_name: "Learn More"
+    call_to_action_link: "/scenario-maker/"
