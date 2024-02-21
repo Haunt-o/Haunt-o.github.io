@@ -14,4 +14,4 @@ items:
     icon: "fa-folder-open"
     description: "AI Dungeon Scenario Making Tool"
     call_to_action_name: "Learn More"
-    call_to_action_link: "/scenario-maker/"
+    call_to_action_link: "/scenario-maker.html"

@@ -5,7 +5,8 @@ layout: page
 callouts: home_callout
 hero_link: "https://play.aidungeon.com/profile/Haunto?contentType=scenario"
 hero_link_text: "My AI Dungeon Page"
-hero_image: /aid_bulma_banner.png
+hero_image: /images/haunto_home_banner.jpg
+hero_height: is-small
 # toc: true
 # menubar_toc: true
 # toc_title: Title Here
