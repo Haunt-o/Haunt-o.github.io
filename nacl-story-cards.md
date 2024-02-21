@@ -47,15 +47,44 @@ For example, if we had a location called "Grassy Plains":
 For separating pieces of information on a line, you have several options:
 - Comma `,`
 	- Good for lists of things.
+	- Example: `sword, shield, bomb.`  
+
+	  This is pretty straightforward; it's a list of things. 
 - Semicolon `;`
 	- Good for a stronger separation of things in the same category.
+	- Example: `lush, vibrant trees; beautiful lake; glowing fireflies.` 
+
+	  This means that all the things listed are separate things, each being
+	  a feature of some location. The semicolon implies that
+	  `lush, vibrant trees` is its own thing instead of `lush` and
+	  `vibrant trees` being part of a list.
 - Slash `/`
 	- Good as a middle ground between `,` and `;` — marks things that are
 	  separate bits of information that link together under the same piece of
 	  information.
+	- Example: `tall/atheletic/toned.`  
+
+	  This means that `tall`, `athletic` and `toned` come together to represent
+	  the full description of someone's build.
 - Ampersand `&`
 	- Good when you want to group things together that should be listed with
 	  an "&"/"and" between them.
+	- Example: `eyes(deep&brown).`  
+
+	  This implies that the eyes should be described as "deep and brown" or
+	  the two features should be grouped together overall.
+
+&nbsp;
+
+*If you're not 100% sure about which one is the best to pick, it honestly
+doesn't matter too much if you're stuck on very specific cases like whether to
+use a slash or an ampersand to separate two things; the descriptions for
+each thing are just a technical, "standard" definition for how NaCL works.*
+
+*The AI — 99.999% of the time — isn't going to get an entirely different message
+from something like `shirt(clean,white)` vs `shirt(clean&white)`.*
+
+&nbsp;
 
 For each following detail about the story card item, a keyword will be used
 to specify what sort of information is being listed.  
