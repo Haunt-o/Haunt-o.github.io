@@ -311,7 +311,7 @@ used to showcase the condensed Snek format:
 ```
 [Mike Haggar]
 > Human/male/202cm/140kg.
->APPE Stocky&muscular/big args/short_brown_hair & brown_mustache.
+>APPE Stocky&muscular/big arms/short_brown_hair & brown_mustache.
 >MIND Just/direct/hardy/upright.
 >WEAR Eyeglasses(at work)/brown_boots&green_pants/bandolier.
 >SUMM Born 1943/from games Final_Fight&Street_Fighter/pro_wrestler(ex)/grew up on streets of Metro City/Mayor of Metro City/fought_gangs(Mad_Gear&Skull_Cross)/fights gangs.
