@@ -46,7 +46,7 @@ For example, if we had a location called "Grassy Plains":
 
 For separating pieces of information on a line, you have several options:
 - Comma `,`
-	- Good for lists of things that are together.
+	- Good for lists of things.
 - Semicolon `;`
 	- Good for a stronger separation of things in the same category.
 - Slash `/`

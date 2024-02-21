@@ -4,7 +4,7 @@ subtitle: AI Dungeon Guy
 layout: page
 callouts: home_callout
 hero_link: "https://play.aidungeon.com/profile/Haunto?contentType=scenario"
-hero_link_text: "My AI Dungeon Page"
+hero_link_text: "AI Dungeon Page"
 hero_image: /images/haunto_home_banner.jpg
 hero_height: is-small
 # toc: true
