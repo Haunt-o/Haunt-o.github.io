@@ -45,7 +45,26 @@ your computer, you should see something like:
 Press `[Enter]` to exit like the scary box says, and you will exorcise it from
 your screen.
 
-## How to generate scenario stuff for options
+### How to generate multiple scenarios at once
+
+You can generate multiple scenario folders at once, instead of running the
+program multiple times, by simply listing the names of each scenario to make
+and separating them with a `|`.
+
+&nbsp;
+
+For example, to generate: `My Life`, `Your Life`, and `Our Lives`.
+
+You would enter: `My Life | Your Life | Our Lives`.
+
+&nbsp;
+
+This feature is great for when you need folders for a bunch of options, as you
+can do them in bulk all at once.
+
+Speaking of options...
+
+### How to generate scenario stuff for options
 
 Just plop the file into your scenario folder, and have it make another folder
 for your option. It will make another folder inside of your scenario folder.
