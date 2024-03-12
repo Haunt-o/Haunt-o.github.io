@@ -1,14 +1,15 @@
 - name: NaCL
-  link: /nacl.html
+  link: /nacl/main.html
   dropdown:
-    - name: Memory
-      link: /nacl.html#headers
-    
-    - name: Author's Notes
-      link: /nacl.html#authors-notes
-      
-    - name: Story Cards
-      link: /nacl-story-cards.html
+    - name: Iodized — Full
+      link: /nacl/iodized.html
+    - name: Kosher — Simplified
+      link: /nacl/kosher.html
+    - name: Keywords
+      link: /nacl/keywords.html
+    # WHEN: WHITE PAPER
+    # - name: White Paper
+    #   link: /nacl/white-paper.html
 
 - name: SALT
   link: /salt.html
@@ -18,6 +19,9 @@
   dropdown:
     - name: Scenario Maker
       link: /scenario-maker.html
+    # NOT DONE YET
+    # - name: Story Card Maker
+      # link: /storycard-maker/character.html
 
 - name: Scripts
   link: /scripts.html

@@ -7,7 +7,7 @@ items:
     # icon_brand: true
     description: "My AI Dungeon Context Format"
     call_to_action_name: "Learn More"
-    call_to_action_link: "/nacl.html" 
+    call_to_action_link: "/nacl/main.html" 
 
   - title: "SALT"
     subtitle: "Scenario Auto Loading Tools"

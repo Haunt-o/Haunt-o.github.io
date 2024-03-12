@@ -1,6 +1,5 @@
 ---
 title: SALT
-layout: page
 callouts: scenario_maker_callout
 hide_hero: true
 toc: true

@@ -1,0 +1,10 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Character
+    link: /storycard-maker/character.html
+    icon: fa-user
+  - name: Location
+    link: /storycard-maker/location.html
+    icon: fa-globe

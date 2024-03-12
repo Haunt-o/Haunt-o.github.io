@@ -1,0 +1,23 @@
+style: is-dark
+height: is-small
+items:
+  - title: Complete
+    subtitle: '<i>"Iodized Salt"</i>'
+    icon: fa-flask
+    # icon_brand: true
+    description: >
+      <b style="text-decoration:underline;"> Optimized Version </b> <br>
+      Good for serious use. <br>
+      Powerful and efficient.
+    call_to_action_name: "Read More"
+    call_to_action_link: "/nacl/iodized.html" 
+
+  - title: Simplified
+    subtitle: '<i>"Kosher Salt"</i>'
+    icon: fa-vial
+    description: >
+      <b style="text-decoration:underline;"> Basic Version </b> <br>
+      Good for casual use. <br>
+      Quick and simple.
+    call_to_action_name: "Read More"
+    call_to_action_link: "/nacl/kosher.html"
